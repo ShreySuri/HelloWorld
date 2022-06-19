@@ -1,4 +1,4 @@
-def helloworld_ribbon ():
+def helloworld_ribbon_vertical():
     print("H")
     print("  e")
     print("    l")
@@ -11,7 +11,10 @@ def helloworld_ribbon ():
     print("  l")
     print("d")
     print("")
-    
-for i in range (1,10):
-    helloworld_ribbon()
-    
+
+def helloworld_ribbon_horizontal():
+    string_1 = "H            d    "
+    string_2 = " e          l     "
+    print("  l        r      ")
+    print("   l      o       ")
+    print("    o    W        ")
