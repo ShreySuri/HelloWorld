@@ -26,3 +26,5 @@ June Edit -- Two types of banner styles are available.
 
 
 Different colored text might follow.
+
+Formatting is weird. Enter the 'edit' tab for better formatting.
