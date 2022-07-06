@@ -23,3 +23,6 @@ June Edit -- Two types of banner styles are available.
       r
     l
   d
+
+
+Different colored text might follow.
