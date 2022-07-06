@@ -1,7 +1,7 @@
 # HelloWorld
 Hello World, my name is Shrey Suri. This is my first program here on GitHub.
 
-June Edit --Two types of banner styles are available.
+June Edit -- Two types of banner styles are available.
 
   Horizontal:
   
@@ -10,3 +10,16 @@ June Edit --Two types of banner styles are available.
       l             r
         l         o
           o     W
+          
+  Horizontal:
+  H
+    e                 
+      l             
+        l         
+          o     
+          
+          W
+        o
+      r
+    l
+  d
